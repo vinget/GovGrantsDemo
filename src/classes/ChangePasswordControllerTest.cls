@@ -11,4 +11,8 @@
         
         System.assertEquals(controller.changePassword(),null);                           
     }    
+    
+    // comments added by Shah and Nakul
+    // Fix the test code coverage
+    
 }
